@@ -1,9 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
 @import "status-bar.css";
 @import "reset.css";
+@import "header.css";
 body{
     background: white;
     padding: 10px 20px;
     color: #020202;
     font-family: 'Open Sans', sans-serif;
+}
+
+a{
+    color: inherit;
 }
