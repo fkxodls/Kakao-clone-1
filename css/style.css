@@ -2,6 +2,12 @@
 @import "status-bar.css";
 @import "reset.css";
 @import "header.css";
+@import "nav-bar.css";
+
+*{
+    box-sizing: border-box;
+}
+
 body{
     background: white;
     padding: 10px 20px;
